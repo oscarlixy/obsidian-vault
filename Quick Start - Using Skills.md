@@ -47,14 +47,17 @@ cd /Users/oscar/CSlearning/obsidian
 ls notes/claude-skills/skills/
 ```
 
-**To use these skills:**
+**⚠️ IMPORTANT: How to Use Skills**
 
-```bash
-# In Claude Code, reference them directly
-/Skill doc-coauthoring
-/Skill pdf
-/Skill file-organizer
-```
+Skills are invoked using **natural language**, not slash commands:
+
+| ❌ Wrong | ✅ Correct |
+|---------|-----------|
+| `/Skill brainstorming` | "Help me brainstorm..." |
+| `/Skill pdf` | "Process this PDF file" |
+| `/Skill doc-coauthoring` | "Help me write this document" |
+
+**Simply describe what you want** - Claude automatically selects the right skill!
 
 ---
 

@@ -51,10 +51,10 @@ ls notes/claude-skills/skills/
 
 Skills are invoked using **natural language**, not slash commands:
 
-| ❌ Wrong | ✅ Correct |
-|---------|-----------|
-| `/Skill brainstorming` | "Help me brainstorm..." |
-| `/Skill pdf` | "Process this PDF file" |
+| ❌ Wrong                  | ✅ Correct                     |
+| ------------------------ | ----------------------------- |
+| `/Skill brainstorming`   | "Help me brainstorm..."       |
+| `/Skill pdf`             | "Process this PDF file"       |
 | `/Skill doc-coauthoring` | "Help me write this document" |
 
 **Simply describe what you want** - Claude automatically selects the right skill!

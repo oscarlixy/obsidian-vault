@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    {
+      "id": "copilot",
+      "name": "Copilot",
+      "description": "Use Claude API directly in Obsidian",
+      "version": "1.0.0"
+    }
+  ]
+}
